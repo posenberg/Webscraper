@@ -12,6 +12,8 @@ To use these files, make sure you have all packages installed from requirements.
 pip install -r requirements.txt
 ```
 
+To run the web scraper: 
+
 ```language-python
 (ScrapeProj) $ cd my_web_scraper/scraper_app
 (ScrapeProj) $ scrapy crawl livingsocial
