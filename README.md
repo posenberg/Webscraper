@@ -1,4 +1,4 @@
-my_webscraper
+Living Social Webscraper
 =============
 
 Worked through a web scraping tutorial on [Newcoder.io](http://newcoder.io/scrape/) -- Thanks, Lynn!
