@@ -11,7 +11,3 @@ class LivingSocialDeal(Item):
 	location = Field()
 	original_price = Field()
 	price = Field()
-
-deal = LivingSocialDeal(title="$20 off yoga classes")
-print deal
-
